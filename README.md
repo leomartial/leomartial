@@ -1,6 +1,5 @@
 ### Hi, call me Léo👋
 #### An AI passionate and sofware engineer
-#### SKILLS
 <h3 align="left" >Languages & CG Tools : </h3>
 <p> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
